@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-- #previous account https://github.com/Rufaida-Kassem
+- # previous account https://github.com/Rufaida-Kassem
 <!---
 rufaida-kassem01/rufaida-kassem01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
