@@ -22,21 +22,6 @@
 
 ---
 
-### 🚀 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **NexaLearn** | AI learning platform that turns lecture videos and PDFs into lessons, with a tutor chatbot, adaptive exams and camera-based attention monitoring. I worked on the student and teacher screens and the attention-monitoring module. | React, TypeScript, MediaPipe, Playwright |
-| **Sentinel-2 Land Cover Segmentation** | U-Net (ResNet34 encoder, ASPP, squeeze-and-excitation) classifying greenery, sand, water and cement in satellite images of Egypt: **0.82 test mIoU**, 90% accuracy. | PyTorch, Google Earth Engine |
-| **Bank Loan Default Prediction** | Credit-risk classifier on ~307K applications with a Streamlit dashboard: XGBoost reached **0.7716 ROC-AUC** and flagged 80.8% of true defaults. | XGBoost, LightGBM, MLflow, Streamlit |
-| **Customer Churn with Hadoop MapReduce KNN** | Team project: churn prediction on 594K records, plus a distributed KNN run as a Hadoop Streaming job on a Dockerized cluster. | scikit-learn, Hadoop, Docker |
-| **Multi-Robot Autonomous Exploration** | Frontier-based exploration for a team of robots; three robots reached 83% combined coverage in 5 minutes, about 2.4x faster than one. | ROS, Python, AgileX LIMO PRO |
-| **Mini C++ Compiler** | Front end of a C++ subset compiler with syntax-error recovery that reports several errors in one run. | C, Flex, Bison |
-| **Wild-Run Game Engine** | Game engine in C++ and OpenGL, used to build a Subway-Surfers-style game. | C++, OpenGL, GLSL |
-| **ASIC Design Projects** | RTL for integer adders and multipliers and a floating-point adder and multiplier, taken through layout, DRC and LVS. | Verilog, Oasys-RTL, Nitro, Calibre |
-
----
-
 <div align="center">
   <h2>👩‍💻 Languages, Frameworks & Tools 👨‍💻</h2>
 
@@ -85,8 +70,13 @@
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rufaida-kassem01&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rufaida-kassem01&layout=compact&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/rufaida-kassem01/statistics/main/profile-summary-card-output/algolia/0-profile-details.svg" alt="0-profile-details" /></a>
+  <br/>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/rufaida-kassem01/statistics/main/profile-summary-card-output/algolia/1-repos-per-language.svg" alt="1-repos-per-language" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/rufaida-kassem01/statistics/main/profile-summary-card-output/algolia/2-most-commit-language.svg" alt="2-most-commit-language" /></a>
+  <br/>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/rufaida-kassem01/statistics/main/profile-summary-card-output/algolia/3-stats.svg" alt="3-stats" /></a>
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="https://raw.githubusercontent.com/rufaida-kassem01/statistics/main/profile-summary-card-output/algolia/4-productive-time.svg" alt="4-productive-time" /></a>
 </div>
 
 ---
@@ -101,5 +91,6 @@
   </a>
   <br/><br/>
   <a href="https://www.hackerrank.com/rufaidahkassem">HackerRank</a> ·
-  <a href="https://codeforces.com/profile/Rufaida_Kassem">Codeforces</a>
+  <a href="https://codeforces.com/profile/Rufaida_Kassem">Codeforces</a> ·
+  <a href="https://github.com/Rufaida-Kassem">Old GitHub account</a>
 </div>
